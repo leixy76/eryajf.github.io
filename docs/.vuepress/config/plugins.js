@@ -15,8 +15,6 @@ const autometa_options = {
 module.exports = [
   // 百度自动推送
   'vuepress-plugin-baidu-autopush',
-  // 自动给中英文之间添加空格
-  'pangu',
   // 鼠标点击后散开小星星
   'cursor-effects',
   // 全文搜索插件
