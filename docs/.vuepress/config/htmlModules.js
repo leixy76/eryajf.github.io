@@ -31,6 +31,12 @@ module.exports = {
   // </div>`,
   // 利用广告模块儿,添加访问地球🌎
   // homeSidebarB: `<div style="width:100%;height:122px;color:#fff;background: #eee;"><a href="https://www.revolvermaps.com/livestats/5srkcv15atq/"><img src="//rf.revolvermaps.com/h/m/a/0/ff0000/128/10/5srkcv15atq.png" width="256" height="128" alt="Map" style="border:0;"></a></div>`,
+  sidebarT: `
+  <a href="https://www.aliyun.com/daily-act/ecs/activity_selection?source=5176.11533457&userCode=4j6jqa5r" target="_blank">
+    <img src="https://t.eryajf.net/imgs/2024/04/1714003859631.png
+    " alt="npm" class="no-zoom" style="width: 100%;border-radius: 2px;">
+    <p style="text-align: center;margin: 0;color: #999;font-size: 12px;">（点击图片了解详情）</p>
+  </a>`,
   pageT: `<div style="
   color:#f56c6c;
   letter-spacing:0;

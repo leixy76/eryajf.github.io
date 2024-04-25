@@ -7,10 +7,15 @@
 [![wiki](https://img.shields.io/website?url=https://wiki.eryajf.net/)](https://wiki.eryajf.net/)
 [![](https://img.shields.io/badge/Awesome-MyStarList-c780fa?logo=Awesome-Lists)](https://github.com/eryajf/awesome-stars-eryajf#readme)
 
-> [!WARNING]
+> [!CAUTION]
 > 个人博客所有内容源代码，博客通过静态部署，一切内容尽皆开源开放。
+>
 > 因此 `不必fork`，可以 `尽情star`！
+>
 > 务必注意：如果fork走，想要构建自己的博客，请务必清空原来博客所有内容，未经授权，严禁将博客文章占为己有。除了清空文章内容之外，注意去掉搜索，评论等插件的配置信息，以免对我的源站造成无效请求。
+>
+> 未将本站文章内容清空之前，请勿发布对公！
+>
 > 谢谢配合！
 
 ---
